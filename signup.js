@@ -22,5 +22,5 @@ document.getElementById('signup-form').addEventListener('submit', function(event
     console.log('User signed up successfully');
     
     // Redirect to the login page after successful signup
-    window.location.href = 'login.html';
+    window.location.href = 'index.html';
 });
